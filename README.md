@@ -1,4 +1,4 @@
-# GCC Business Directory 🌍
+# GCC Business Directory 🌍 
 
 A comprehensive business directory platform for the Gulf Cooperation Council (GCC) region.
 
@@ -10,6 +10,7 @@ A comprehensive business directory platform for the Gulf Cooperation Council (GC
 | 🇰🇼 | Kuwait | KW |
 | 🇴🇲 | Oman | OM |
 | 🇶🇦 | Qatar | QA |
+
 | 🇸🇦 | Saudi Arabia | SA |
 | 🇦🇪 | United Arab Emirates | AE |
 
